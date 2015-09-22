@@ -1,0 +1,82 @@
+.mymajorimage {
+  background-image: url("http://s3.goeshow.com/nsh/2013Hawaii/Image/Honolulu2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 750px;
+  margin-top:-22px;
+  border-bottom: 3px solid black;
+}
+
+.newsletterimage {
+  background-image: url("http://www.aloha-hawaiian.com/images/newsite/slideshow/hanauma-bay-inclusive-slideshow.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 750px;
+  margin-top:-22px;
+  border-bottom: 3px solid black;
+
+}
+
+#cImage {
+  height: 750px;
+  background-size: cover;
+  margin-top: 0px;
+  border-bottom: 3px solid black;
+}
+
+#text {
+  font-size: 100px;
+  color: white;
+  font-family:
+  vertical-align: middle;
+  text-align: center;
+  padding: 250px;
+}
+
+#text2 {
+  font-size: 100px;
+  color: white;
+  font-family:
+  vertical-align: middle;
+  text-align: center;
+  padding: 150px;
+}
+
+.row{
+  background-color:#F5E5B1;
+  padding-top: 5px;
+}
+.navbar {
+  background-color:#F5E5B1;
+}
+html{
+  background-color: #F5E5B1;
+}
+
+p {
+  line-height: 25px;
+}
+form{
+  text-align: center;
+  position:relative;
+  top: 0;
+  margin:auto;
+  margin-top: -130px;
+}
+
+.form-control {
+  border: 1px solid black;
+}
+
+.btn {
+  border: 1px solid black;
+}
+.carousel-caption h3 {
+  text-shadow: 2px 2px black;
+  font-size: 30px;
+}
+
+.carousel-caption p {
+  text-shadow: 2px 2px black;
+  font-size: 20px;
+}
